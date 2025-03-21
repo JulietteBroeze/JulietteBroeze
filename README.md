@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning how to speak high valeryon
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: je moeder
 - ⚡ Fun fact: i dont like insects
 
 <!---
